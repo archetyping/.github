@@ -1,5 +1,7 @@
 # Archetyping
 
+![AI generated mood](https://github.com/archetyping/.github/blob/main/profile/illustration-of-the-abstract-concept-of-complexity-and-precision-represented-modularly-highlighted-187359977.png)
+
 Archetyping — it's just verb form of "**archetype**" noun, and, stargin from now — new way how to think, show and tell about types, without rocket science. Why this name used? In marketing and ad world with the help of archetypes, marketers could better, more obvious and faster, explain their meanings for wide range of consumers, using the same wording for different groups of people. This concepts looks like as good starting point for this reserch, whose main purpose is to find better symbol and sign systems or syntaxes on habitual use cases and programming languages. Later, i have plans to develop new ontology management software stack, combined with a suitable methodology for its applications in business, programmig, and analytical research.
 
 ## Syntax
